@@ -1,9 +1,7 @@
 {
     "name": "codica-studio/messenger",
     "description": "A random Codica Studio package.",
-    "keywords": [
-        ""
-    ],
+
     "homepage": "https://github.com/codica-studio/messenger",
     "license": "MIT",
     "authors": [
