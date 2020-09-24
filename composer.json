@@ -1,5 +1,5 @@
 {
-    "name": "codica-studio/messenger",
+    "name": "codicastudio/messenger",
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codicastudio/messenger",
@@ -47,5 +47,7 @@
                 "Cmgmyr\\Messenger\\MessengerServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
